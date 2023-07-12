@@ -1,4 +1,3 @@
-Project title : Prog6221 POE
 Authour : Mulamuleli Mammba
 
 Compilation instruction
